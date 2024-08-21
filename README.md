@@ -1,3 +1,3 @@
 # Network
-OSI 7계층, tcp/ip
-![image](https://github.com/user-attachments/assets/bbd72b97-e98f-4c37-a299-a30062426544)
+![image](https://github.com/user-attachments/assets/e1cb5157-eb32-4add-8146-88e500b77e6e)
+
